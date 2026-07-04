@@ -1,0 +1,6 @@
+{
+  "name": "APP - Digital Store & Services",
+  "description": "A premium portfolio and digital store for APP, offering high-quality digital products, creative assets, and professional digital services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
